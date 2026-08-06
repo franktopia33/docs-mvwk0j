@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-s9o43c.yoursingles.online/sitemap.xml
